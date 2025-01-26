@@ -1,0 +1,13 @@
+{
+  "name": "qwikpen-ui",
+  "private": true,
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-emoji"
+    }
+  },
+  "devDependencies": {
+    "cz-emoji": "1.3.2-canary.2",
+    "lerna": "^8.1.9"
+  }
+}
